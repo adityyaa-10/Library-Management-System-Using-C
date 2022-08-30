@@ -24,12 +24,12 @@ $ gh repo clone adityyaa-10/Dummy-Gym-Website
 ```bash
 $ git clone https://github.com/adityyaa-10/Dummy-Gym-Website.git
 ```
-
+<!-- 
 **4.** Create a new working branch 
 
 ```bash 
 $ git checkout -b [your_branch_name]
-```
+``` -->
 
 
 **5.** Navigate to the new project directory:

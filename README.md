@@ -38,6 +38,8 @@ $ git checkout -b [your_branch_name]
 cd Dummy-Gym-Website
 ```
 
+**6.** Open <a href="library-management-system.exe">Library Managemnt System.exe</a>
+
 
 
 
